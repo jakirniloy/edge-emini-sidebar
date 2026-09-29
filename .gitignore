@@ -1,0 +1,12 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Node/Python artifacts
+__pycache__/
+*.pyc
+
+# Local scratch / test logs
+*.log
+.vscode/
+.idea/
